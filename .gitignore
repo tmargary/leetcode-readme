@@ -1,0 +1,32 @@
+# Python-specific files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyi
+*.egg-info/
+*.egg
+dist/
+build/
+venv/
+*.egg-info
+
+# IDE-specific files
+.vscode/
+.idea/
+
+# Other
+*.log
+*.csv
+*.txt
+*.json
+*.sqlite
+*.pdf
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.svg
+*.wav
+*.mp3
+*.mp4
